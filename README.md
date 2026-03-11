@@ -63,3 +63,9 @@ Improve the naturalness and intelligibility of Arabic speech systems for native 
 ## Author
 
 Khalid AlShahab
+
+## Full Document
+
+The full guideline document is available here:
+
+Arabic_AI_Pronunciation_Guidelines_v1.pdf
