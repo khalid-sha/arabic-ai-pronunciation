@@ -62,4 +62,4 @@ Improve the naturalness and intelligibility of Arabic speech systems for native 
 
 ## Author
 
-Khalid
+Khalid AlShahab
